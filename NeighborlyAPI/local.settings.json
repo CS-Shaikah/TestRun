@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=testsecpro2a50d;AccountKey=B1OuqD44wdKSoAtBw9/9XAY2tDTXVoZ1aPcBvY2i9CJCEf4FHrO0sMW3doHM0v+nulsWaChMUPUo+ASt7qopTw==;EndpointSuffix=core.windows.net",
+    "SendGridAPI": "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"
+  }
+}

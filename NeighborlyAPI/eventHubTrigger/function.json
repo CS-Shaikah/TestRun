@@ -1,0 +1,12 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "type": "eventGridTrigger",
+      "name": "event",
+      "direction": "in",
+      "eventHubName": "testhub",
+      "connection": "https://shaikahproject2.azurewebsites.net/api/eventHubTrigger?code=5ow_fxBvoqiwl8qWQG0OCcO4WKcgZX_menmjGby3ndBaAzFujX-qSQ"
+    }
+  ]
+}
